@@ -1,9 +1,9 @@
 body { 
-    background-color: aliceblue;
+    background-color: rgb(114, 171, 221);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 h1 {
-    color: lightblue;
+    color: rgb(12, 168, 103);
     text-align: center;
 }
