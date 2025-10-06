@@ -3,6 +3,10 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: rgb(28, 25, 76);
+	color: rgb(72, 253, 17);
+	text-align: center;
+}
+h2 {
+	color: rgb(255, 115, 0);
 	text-align: center;
 }
