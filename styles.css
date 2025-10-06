@@ -1,38 +1,8 @@
-/* UofSC Color Theme */
-
 body {
-  background-color: #FFFFFF; /* white background */
-  color: #000000; /* black text */
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+	background: cornsilk;
+	font-family: Arial, Helvetica, sans-serif;
 }
-
 h1 {
-  background-color: #73000A; /* garnet */
-  color: #FFFFFF;
-  padding: 1rem;
-  text-align: center;
-}
-
-h2 {
-  color: #73000A;
-  border-bottom: 2px solid #73000A;
-  padding-bottom: 0.3rem;
-}
-
-div {
-  padding: 1rem 2rem;
-  margin: 1rem;
-  border: 1px solid #D0D0D0;
-  background-color: #F9F9F9;
-  border-radius: 5px;
-}
-
-.about, .skills, .projects, .contact {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-p {
-  line-height: 1.6;
+	color: darkslategrey;
+	text-align: center;
 }
